@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/main/HomePage.jsp=UTF-8
+encoding//src/poly/controller/GuitarController.java=UTF-8
+encoding//src/poly/controller/LoginController.java=UTF-8
+encoding//src/poly/entity/GuitarAcc.java=UTF-8
+encoding//src/poly/entity/OrderInfo.java=UTF-8
